@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringExtensionLibraryCore", "StringExtensionLibraryCore\StringExtensionLibraryCore.csproj", "{2FE46271-4751-4FD6-9383-1090E5F0EB1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringExtesions", "StringExtesions\StringExtesions.csproj", "{676CBA36-1E0F-4AB2-8139-EDB8629B18CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FE46271-4751-4FD6-9383-1090E5F0EB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE46271-4751-4FD6-9383-1090E5F0EB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE46271-4751-4FD6-9383-1090E5F0EB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE46271-4751-4FD6-9383-1090E5F0EB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676CBA36-1E0F-4AB2-8139-EDB8629B18CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676CBA36-1E0F-4AB2-8139-EDB8629B18CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676CBA36-1E0F-4AB2-8139-EDB8629B18CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676CBA36-1E0F-4AB2-8139-EDB8629B18CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
